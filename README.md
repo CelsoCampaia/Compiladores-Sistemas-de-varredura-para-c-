@@ -2,6 +2,8 @@
 Scanner (Analisador Léxico) para C-
 ====================================
 
+Grupo:Celso Campaia e Alexandre Raul
+
 Este programa é um Analisador Léxico (Scanner) para a linguagem C-, 
 implementado em C. 
 
